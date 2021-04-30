@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... harnessing Agile methodologies to help dev teams scale app development
 - 🌱 I’m currently learning ... scrum mastering
 - 👯 I’m looking to collaborate with ... devs who are interested in using the @ protocol to develop their amazing app ideas ~ we have a great platform and I'd be happy to help you
