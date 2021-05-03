@@ -7,6 +7,6 @@
 - 💬 Ask me about ... anything health and wellness ~ I'm also a certified holistic health coach. 
 - 📫 How to reach me: ... kims@atsign.com
 - 😄 Pronouns: ... I'm a girl... and I love flowers, hummingbirds, dragonflies and butterflies. None of which are pronouns, just nouns .... I'm never one to follow trends 📈.
-- ⚡ Fun fact: ... I'm crazy about dogs, but particularly loyal to Cavalier King Charles Spaniels. I also went through the Hudson Institutes Organizational Development coaching program.
+- ⚡ Fun fact: ... I'm crazy about dogs, but particularly loyal to Cavalier King Charles Spaniels.  I also went through the Hudson Institutes Organizational Development coaching program.
 - ♑️ Star sign ... You guessed it!  Capricorn...
 - #️⃣ My #'s ... 7, 13 and 64
