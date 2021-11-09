@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ... I'm crazy about dogs, but particularly loyal to Cavalier King Charles Spaniels.  I also went through the Hudson Institutes Organizational Development coaching program.
 - ♑️ Star sign ... You guessed it!  Capricorn...
 - #️⃣ My #'s ... 7, 13 and 64
-- I'm an ENFJ (Protaganist) Read more here! https://www.16personalities.com/enfj-personality
+- I'm an ENFJ (Protaganist) Read more here - https://www.16personalities.com/enfj-personality
