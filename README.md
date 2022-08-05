@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... harnessing Agile methodologies to help cross-functional teams communicate effciently, scale app development, deployment and go to market strategies.
 - 🌱 I’m currently learning ... scrum mastering 
-- 👯 I’m looking to collaborate with ... devs and go to market product teams who are interested in using the @ protocol to develop their amazing app ideas ~ internet self soverienty is the next big thing.  You heard 📞 it here first.
+- 👯 I’m looking to collaborate with ... devs and go to market product teams who are interested in using the atProtocol to develop their amazing app ideas ~ internet self soverienty is the next big thing.  You heard 📞 it here first.
 - 🤔 I’m looking for help with ... any tips and tricks on Agile scrum mastering (especially love YouTube, so if you follow anyone you love flip me a note 📧.
 - 💬 Ask me about ... anything health and wellness ~ I'm also a certified holistic health coach and bio-hacker.
 - 📫 How to reach me: ... kims@atsign.com
