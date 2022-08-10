@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... harnessing Agile methodologies to help cross-functional teams communicate effciently, scale app development, deployment and go to market strategies.
+- 🔭 I’m currently always learning ... harnessing Agile methodologies to enable cross-functional team collaboration, scale app development, deploy projects and go to market strategies.
 - 🌱 I’m currently learning ... scrum mastering 
 - 👯 I’m looking to collaborate with ... devs and go to market product teams who are interested in using the atProtocol to develop their amazing app ideas ~ internet self soverienty is the next big thing.  You heard 📞 it here first.
 - 🤔 I’m looking for help with ... any tips and tricks on Agile scrum mastering (especially love YouTube, so if you follow anyone you love flip me a note 📧.
