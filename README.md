@@ -1,4 +1,4 @@
-![Banner LINK](https://)
+![Banner LINK](https://github.com/ksanty/ksanty/blob/main/-work%20atsign%20-something%20that%20represents%20kim%20could%20be%20an%20avatar.png)
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
