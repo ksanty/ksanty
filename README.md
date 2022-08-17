@@ -1,4 +1,10 @@
-### Hi there 👋
+![Banner LINK](https://)
+
+
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+### 👨🏻‍💻 &nbsp;About Me
+## Hi there 👋
 
 - 🔭 I’m currently ... using Agile methodologies to enable cross-functional team collaboration, scale app development, deploy software, marketing and go to market projects.
 - 🌱 I’m currently learning ... iOT 
@@ -11,13 +17,6 @@
 - ♑️ Star sign ... Capricorn...
 - #️⃣ My #'s ... 7 and 13
 - I'm an ENFJ (Protaganist) Read more here - https://www.16personalities.com/enfj-personality
-
-![Banner LINK](https://)
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About You
 
 
 ### 🛠 &nbsp;Skill Stack
