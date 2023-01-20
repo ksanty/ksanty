@@ -1,12 +1,7 @@
-![Banner LINK](https://github.com/ksanty/ksanty/blob/main/-work%20atsign%20-something%20that%20represents%20kim%20could%20be%20an%20avatar.png)
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
 ## Hi there 👋
 
-- 🔭 I’m currently ... using Agile methodologies to enable cross-functional team collaboration, scale app development, deploy software, marketing and go to market projects.
+- 🔭 I’m currently ... using Agile methodologies to enable cross-functional team collaboration, scale app development, deploy software, marketing and go to market proji iam 
+ects.
 - 🌱 I’m currently learning ... iOT 
 - 👩🏻‍💻 I'm currently working with ...... an amazing group of engineers, marketers and start-up techies who are passionate about giving people the power to own their own data. Intriqued?  
 - 👯 I’m looking to collaborate with ... devs and go to market product teams who are interested in using the atProtocol to develop their amazing app ideas ~ iOT security is the next big thing.  You heard 📞 it here first.
@@ -38,4 +33,5 @@
 <a href="mailto:kims@atsign.com"><img src="https://img.shields.io/badge/-kims@atsign.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+just messing around bro
 -----
